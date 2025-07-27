@@ -3,8 +3,10 @@ Python snippet to invoke an LLM using LangChain
 To use the LangChain framework effectively in your applications, you’ll need a few key ingredients—think of it as assembling a modular AI toolkit. Here's a structured breakdown to get you started
 Core Requirements
 Programming Language: Primarily Python
+
 a. Installation 
 1. pip install langchain
+   
 b. Optionally install integration like
 2. pip install langchain-openai langchain-community
 
